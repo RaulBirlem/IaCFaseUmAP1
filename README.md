@@ -1,0 +1,2 @@
+# IaCFaseUmAP1
+exercício
